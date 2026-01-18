@@ -9,3 +9,5 @@ Abrir Jupyter Notebook y correr los archivos de /notebooks.
 
 ## Librerías
 pandas, numpy, matplotlib, seaborn, sklearn
+## Creditos y referencias
+https://www.kaggle.com/code/adilashrafi/simple-friendly-retail-analysis/notebook
